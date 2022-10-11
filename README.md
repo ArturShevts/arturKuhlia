@@ -1,5 +1,4 @@
-![Hey there, I'm Artur. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/arturKuhlia/arturKuhlia/raw/master/header.gif)
-
+ 
 &nbsp; [![GitHub followers](https://img.shields.io/github/followers/arturKuhlia?logo=GitHub&style=for-the-badge)](https://github.com/arturKuhlia) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/arturKuhlia?logo=github&style=for-the-badge)](https://github.com/arturKuhlia) &nbsp; [![GitHub Sponsors](https://img.shields.io/github/sponsors/arturKuhlia?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/arturKuhlia)
 
 # 👋 &nbsp;Hi there
