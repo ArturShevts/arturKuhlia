@@ -4,7 +4,7 @@
 
 # 👋 &nbsp;Hi there
 
-I'm a software developer based in Toronto, Canada. I enjoy coding open-source projects that solving unique problems. I love combining my hobbies like finance, coding and CAD. You can find me on LinkedIn [@Artur Shevt](https://twitter.com/artur_shevt). Feel free to text me any time. You can also check out my website [arturs.netlify.app/](https://arturs.netlify.app/) for my blog and more.
+I'm a software developer based in Toronto, Canada. I enjoy coding open-source projects and solving unique problems. I love combining my hobbies like finance, coding and CAD. You can find me on LinkedIn [@Artur Shevt](https://twitter.com/artur_shevt). Feel free to text me any time. You can also check out my website [arturs.netlify.app/](https://arturs.netlify.app/) for my blog and more.
 
 &nbsp;
 
