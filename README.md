@@ -7,6 +7,7 @@ I'm a software developer based in Toronto, Canada. I enjoy coding and solving un
 
 ## 🧰 &nbsp;My toolbox
 
+
 <img
   src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
   alt="TypeScript"
@@ -39,15 +40,14 @@ I'm a software developer based in Toronto, Canada. I enjoy coding and solving un
   height="50"
 />
 &nbsp;
-<div
+<img
   alt="ExpressJS"
   width="50"
   height="50"
-  style="
-    background-color: white;
-    background-image: url(https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg);
+  src="
+   https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg
   "
-></div>&nbsp;<img
+/>&nbsp;<img
   src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"
   alt="NodeJS"
   width="50"
