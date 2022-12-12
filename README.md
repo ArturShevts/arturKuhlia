@@ -45,7 +45,7 @@ I'm a software developer based in Toronto, Canada. I enjoy coding and solving un
   height="50"
   style="
     background-color: white;
-    background-image: 'https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg';
+    background-image: url(https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg);
   "
 />&nbsp;<img
   src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"
