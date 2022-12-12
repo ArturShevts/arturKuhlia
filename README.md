@@ -44,9 +44,7 @@ I'm a software developer based in Toronto, Canada. I enjoy coding and solving un
   alt="ExpressJS"
   width="50"
   height="50"
-  src="
-   https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg
-  "
+  src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"
 />&nbsp;<img
   src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"
   alt="NodeJS"
