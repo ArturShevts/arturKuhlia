@@ -1,7 +1,7 @@
  
 # 👋 &nbsp;Hi there
 
-I'm a software developer based in Toronto, Canada. I enjoy coding and solving unique problems. You can find me on LinkedIn [@Artur Shevt](https://twitter.com/artur_shevt).
+I'm a software developer based in Toronto, Canada. I enjoy coding and solving unique problems. You can find me on [LinkedIn](https://www.linkedin.com/in/arthur-shevts/) .
 &nbsp;
 
 ## 🧰 &nbsp;My toolbox
